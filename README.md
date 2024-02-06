@@ -1,5 +1,17 @@
-### Hi there 👋
+```cs
+public class WidovV
+{
+    public string Name = "WidovV";
+    public DateTime StartedProgramming = new(2022, 1, 17);
+    public string Location = "Denmark";
 
+    public string[] Communities =
+    [
+        "CPH-Gaming", // https://cph-gaming.dk/
+        "RidgeKrew", // https://steamcommunity.com/groups/ridgekrew
+    ];
+}
+```
 <!--
 **WidovV/WidovV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
