@@ -9,7 +9,6 @@ public class WidovV
     [
         "CPH-Gaming", // https://cph-gaming.dk/
         "RidgeKrew" // https://steamcommunity.com/groups/ridgekrew
-        "
     ];
 }
 ```
