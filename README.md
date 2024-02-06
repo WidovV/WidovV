@@ -8,7 +8,8 @@ public class WidovV
     public string[] Communities =
     [
         "CPH-Gaming", // https://cph-gaming.dk/
-        "RidgeKrew", // https://steamcommunity.com/groups/ridgekrew
+        "RidgeKrew" // https://steamcommunity.com/groups/ridgekrew
+        "
     ];
 }
 ```
