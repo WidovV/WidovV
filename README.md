@@ -11,7 +11,7 @@ public class WidovV
         "RidgeKrew" // https://steamcommunity.com/groups/ridgekrew
     ];
     
-public object[] Socials =
+    public object[] Socials =
     [
             "Discord: widovv",
             "Steam: https://steamcommunity.com/id/WidovV/",
