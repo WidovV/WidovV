@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=widovv&style=flat-square&color=red)
+![](https://komarev.com/ghpvc/?username=widovv&style=flat-square&color=red&label=Views)
 ```cs
 public class WidovV
 {
