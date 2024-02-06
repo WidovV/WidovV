@@ -10,6 +10,15 @@ public class WidovV
         "CPH-Gaming", // https://cph-gaming.dk/
         "RidgeKrew" // https://steamcommunity.com/groups/ridgekrew
     ];
+    
+    new object[] Socials =
+    [
+            "Discord: widovv",
+            "Steam: https://steamcommunity.com/id/WidovV/",
+            "Youtube: https://www.youtube.com/@widovv1656",
+            "Gamebanana: https://gamebanana.com/members/1956221"
+    ];
+
 }
 ```
 <!--
