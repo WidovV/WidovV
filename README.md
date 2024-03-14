@@ -22,4 +22,4 @@ public class WidovV
 
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WidovV&layout=compact&theme=onedark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WidovV&layout=compact&theme=onedark)
